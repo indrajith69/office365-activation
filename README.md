@@ -1,6 +1,6 @@
 # Microsoft Office365 Free Activation 
 
-This is a program i created to make the activation of Office365 much more easier and less complicated. All you have to do is run the **activate-office.exe** file to activate the installed Office365 with a valid product key. 
+This is a program i created to make the activation of Office365 much more easier. All you have to do is run the **activate-office.exe** file to activate the installed Office365 with a valid product key. 
 
 ## Installing Office365
 
